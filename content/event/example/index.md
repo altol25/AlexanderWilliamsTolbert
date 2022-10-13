@@ -1,5 +1,5 @@
 ---
-abstract: Race is frequently treated as an explanatory variable in causal models throughout the social sciences. Yet, there is lively disagreement about the causal status of race. Chapter 4 I defend a position I call causal agnosticism about race, which holds that it is reasonable to withhold judgment as to whether or not race is a cause. 
+abstract: Race is frequently treated as an explanatory variable in causal models throughout the social sciences. Yet, there is lively disagreement about the causal status of race. I defend a position I call causal agnosticism about race, which holds that it is reasonable to withhold judgment as to whether or not race is a cause. 
 address:
   city: Pittsburgh
   country: United States
@@ -8,8 +8,8 @@ address:
   street: 600 Commonwealth Pl
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-11-10"
+date_end: "2022-11-13"
 event: PSA's 28th biennial meeting
 event_url: https://psa2022.dryfta.com/
 featured: false
