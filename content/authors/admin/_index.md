@@ -9,9 +9,16 @@ education:
   - course: MA in Statistics
     institution: University of Pennsylvania
     year: expected 2023
-  - course: MA in Philosophy
+  - course: MS in Biochemistry   
     institution: Virginia Tech
     year: 2019
+  - course: MA in Philosophy 
+    institution: Virginia Tech
+    year: 2019
+  - course: BS in Biology
+    institution: University of Mobile
+    year: 2013 
+    
 email: ""
 first_name: Alexander 
 highlight_name: true
