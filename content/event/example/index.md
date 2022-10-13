@@ -6,7 +6,7 @@ address:
   postcode: "15222"
   region: PA
   street: 600 Commonwealth Pl
-all_day: false
+all_day: true
 authors: []
 date: "2022-11-10"
 date_end: "2022-11-13"
